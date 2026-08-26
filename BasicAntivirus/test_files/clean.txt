@@ -1,0 +1,3 @@
+This is a completely harmless test file.
+
+It is being used to test the antivirus simulator.

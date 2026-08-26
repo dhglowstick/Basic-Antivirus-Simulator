@@ -1,0 +1,14 @@
+{
+    "scan_time": "2026-08-27T03:05:14.214085",
+    "total_files": 1,
+    "clean_files": 1,
+    "malicious_files": 0,
+    "errors": 0,
+    "results": [
+        {
+            "file": "test_files\\clean.txt",
+            "status": "CLEAN",
+            "hash": "c9ec2aea1462bf34564703fb30408bd174124e4e01d5b2197cbb339920eaf794"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "scan_time": "2026-08-27T03:02:01.939929",
+    "total_files": 2,
+    "clean_files": 1,
+    "malicious_files": 1,
+    "errors": 0,
+    "results": [
+        {
+            "file": "test_files\\clean.txt",
+            "status": "CLEAN",
+            "hash": "c9ec2aea1462bf34564703fb30408bd174124e4e01d5b2197cbb339920eaf794"
+        },
+        {
+            "file": "test_files\\simulated_malware.txt",
+            "status": "MALICIOUS",
+            "malware": "Educational-Test-Malware",
+            "hash": "c47a7801a4f4f331a0c715f157d93e9f98e1a18902be622bcb92f17b082ef423"
+        }
+    ]
+}
